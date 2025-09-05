@@ -1,15 +1,22 @@
 {
-  "branches": ["main", { "name": "develop", "prerelease": true }],
   "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
     [
-      "@semantic-release/npm",
+      "@semantic-release/release-notes-generator",
       {
-        "npmPublish": false
+        "preset": "conventionalcommits",
+        "presetConfig": {
+          "types": [
+            { "type": "feat", "section": "🌟 New Features", "hidden": false },
+            { "type": "fix", "section": "🐛 Bug Fixes", "hidden": false },
+            { "type": "chore", "section": "🧹 Maintenance", "hidden": false },
+            { "type": "docs", "section": "📖 Documentation", "hidden": false },
+            { "type": "test", "section": "✅ Tests", "hidden": true }
+          ]
+        }
       }
     ],
+    "@semantic-release/changelog",
+    ["@semantic-release/npm", { "npmPublish": false }],
     [
       "@semantic-release/git",
       {
