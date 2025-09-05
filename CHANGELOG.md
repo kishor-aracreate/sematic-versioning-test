@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.0.1...v1.0.2) (2025-09-05)
+
+
+### Bug Fixes
+
+* changed the token name ([41ac5f8](https://github.com/kishor-aracreate/sematic-versioning-test/commit/41ac5f8fdfed124d956d5779d430acc81468e29c))
+
 ## [1.0.1](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.0.0...v1.0.1) (2025-09-05)
 
 
