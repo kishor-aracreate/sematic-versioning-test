@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.0.2...v1.1.0) (2025-09-05)
+
+
+### Features
+
+* add new function ([8fe9d2f](https://github.com/kishor-aracreate/sematic-versioning-test/commit/8fe9d2ff1178c0d72c127f2b5d44dc16f4f5d53e))
+
 ## [1.0.2](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.0.1...v1.0.2) (2025-09-05)
 
 
