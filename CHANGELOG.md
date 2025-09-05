@@ -1,3 +1,13 @@
+## [1.3.0](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.2.0...v1.3.0) (2025-09-05)
+
+### 🌟 New Features
+
+* to add styles ([32cc1c9](https://github.com/kishor-aracreate/sematic-versioning-test/commit/32cc1c9c3068bf874cef5336ff6fc2c4145206e2))
+
+### 🐛 Bug Fixes
+
+* added new package ([a75bc54](https://github.com/kishor-aracreate/sematic-versioning-test/commit/a75bc543850c5a084de6a44bace81a67f88561f1))
+
 # [1.2.0](https://github.com/kishor-aracreate/sematic-versioning-test/compare/v1.1.0...v1.2.0) (2025-09-05)
 
 
