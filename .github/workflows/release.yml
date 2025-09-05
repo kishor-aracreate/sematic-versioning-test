@@ -27,7 +27,7 @@ jobs:
         with:
           run_install: true
 
-      # 4. Run semantic-release
+      # 4. Run semantic-release/
       - name: Release
         run: npx semantic-release
         env:
